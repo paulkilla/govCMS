@@ -61,3 +61,10 @@ node_modules
 # build results #
 #################
 #docroot
+
+
+# Aegir files
+docroot/sites/sites.php
+docroot/sites/*/drushrc.php
+docroot/sites/*/local.settings.php
+docroot/sites/all/drush/drushrc.php
